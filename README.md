@@ -1,7 +1,10 @@
 # 100 Days Of Swift Day 1
 
+This README documents what I have learned through experimenting with Swift in an Xcode Playground.
+
 ### Code overview
 
+<code>
 import UIKit
 
 var str = "Hello, playground"
@@ -19,8 +22,9 @@ let multiline = """
         Isn't it awesome?
         I think it is.
 """
+</code>
 
-Concepts Learned
+### Concepts Learned
 
 1. Importing Modules
 
